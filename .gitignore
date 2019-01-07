@@ -1,0 +1,12 @@
+**/.Xil/
+**/*.cache/
+**/*.runs/
+**/*.sim/
+**/vivado*.jou
+**/*.wdb
+**/vivado*.log
+**/~WRL*.tmp
+**/timing/
+**/msim/
+_gsdata_/
+gitlog.log
